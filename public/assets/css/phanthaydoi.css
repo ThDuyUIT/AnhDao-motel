@@ -1,0 +1,126 @@
+.welcome {
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.name_kind_room{
+    font-size: 18px;
+}
+
+.kind_room{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.blur_decoration{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.blur_decoration.title{
+    color: white;
+}
+
+.banner_decoration{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.rules{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.banner_head_page{
+    background-image: url("/NhatroAnhDao/public/assets/images/alena-aenami-wait.jpg");
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.content{
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    color: white;
+}
+
+.add_blur{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 400px;
+}
+
+.name_page{
+    font-size: 36px;
+}
+ 
+.pre{
+    color: white;
+}
+
+.pre:hover{
+    color: black;
+}
+
+.contact_infomation{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.messager input{
+    height: 38px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.messager textarea{
+    width: 100%;
+}
+
+.room{
+    background-color: #00d1b2;
+    height: 107.27px;
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+}
+
+.room:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.room b{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+
+.chart_rooms{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.line_rooms{
+    margin-left: 15px;
+}
+
+.columns.img_chart_rooms{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}

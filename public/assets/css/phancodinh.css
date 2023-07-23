@@ -1,0 +1,89 @@
+.logo{
+    width: 130px;
+    height: 123px;
+ }
+ 
+ .navbar-menu{
+     margin: 10px;
+ }
+ 
+ .navbar{
+    margin-top: -7px;
+    box-shadow: 0px 1px 4px;
+ }
+
+ .footer ul li hr{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ 
+ .footer li{
+     font-size: 14px;
+ }
+ 
+ .footer li .name_location{
+     width: 80%;
+     float: left;
+ }
+ 
+ .footer .distances{
+     padding-left: 30px;
+ }
+ 
+ #logo_footer{
+     float: left;
+     margin: 0 15px 0 0;
+ }
+ 
+ .footer .info_footer li{
+     font-size: 16px;
+ }
+
+ .container_register{
+    display: none; /*Hidden by default*/
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    /* overflow: auto; Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: 40px;
+ }
+
+.frm_register{
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+}
+
+.frm_register input{
+    width: 90%;
+    height: 100%;
+}
+
+.frm_register select{
+    width: 90%;
+    height: 100%;
+}
+
+.frm_register .button{
+    width: 90%;
+    height: 100%;
+    margin-top: 3px;
+}
+
+ .close{
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+ }
+
+ .close:hover{
+    color: red;
+ }
+
+
